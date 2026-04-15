@@ -2,11 +2,8 @@
 
 - 🔭 Project: https://www.fotosai.xyz/en 
 
-- 🌱 I use MERN stack. 
+- 🌱 I work with MERN and FARM stacks, and I have experience using Django and Langchain.
 
 - 📫 How to reach me esacinruiz@gmail.com
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzosacinruiz&show_icons=true&locale=en&layout=compact" alt="enzosacinruiz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzosacinruiz&" alt="enzosacinruiz" /></p>
